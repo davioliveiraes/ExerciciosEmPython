@@ -1,0 +1,46 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="W391" />
+          <option value="E501" />
+          <option value="E231" />
+          <option value="E402" />
+          <option value="E302" />
+          <option value="E111" />
+          <option value="E741" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="list" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnboundLocalVariableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Exercicios.Viver.viver" />
+          <option value="Exercicios.Viver.agradecer" />
+          <option value="Exercicios.Viver.comer" />
+          <option value="Exercicios.Viver.dormir" />
+          <option value="Exercicios.Viver.programar" />
+          <option value="Exercicios.Viver.estudar_ingles" />
+          <option value="Exercicios.Viver.ler" />
+          <option value="Exercicios.Viver.namorar" />
+          <option value="Exercicios.Viver.jogar_bola" />
+          <option value="Exercicios.Viver.academia" />
+          <option value="Exercicios.Viver.socializar" />
+          <option value="dict.*" />
+          <option value="int.__getitem__" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
