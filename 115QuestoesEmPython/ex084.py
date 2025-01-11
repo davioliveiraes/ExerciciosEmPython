@@ -30,7 +30,7 @@ for i, pessoa in enumerate(lista_pessoas):
 print(f"O menor peso foi: {menor_peso}KG", end=' ')
 for i, pessoa in enumerate(lista_pessoas):
    if pessoa[1] == menor_peso:
-      print(f"[{pessoa[0]}]", end='')
+      print(f"[{pessoa[0]}]", end=' ')
 print("\n", "==" * 30)
 
 print(f"Lista de todos os cadastrados: {lista_pessoas}")
